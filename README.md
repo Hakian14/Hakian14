@@ -2,7 +2,7 @@
 
 **Data Analyst (5+ yrs) → AI Training & Evaluation Specialist** · Haiphong, Vietnam
 
-I spent five years turning messy e-commerce, retail and CRM data into decisions — Power BI dashboards, advanced SQL, data models and ETL pipelines for companies like Sapo Technology, YODY Fashion and VCCorp. Today I apply the same rigor to **evaluating and training large language models**: designing rubrics, grading model outputs, and measuring annotation quality on platforms such as Outlier, Mercor and Micro1.
+I spent five years turning messy e-commerce, retail and CRM data into decisions — Power BI dashboards, advanced SQL, data models and ETL pipelines for companies like Sapo Technology, YODY Fashion and VCCorp. Today I apply the same rigor to **evaluating and training large language models**: designing rubrics, grading model outputs, and measuring annotation quality for AI training platforms.
 
 My background in **Statistics (B.Sc., National Economics University)** is the thread that connects both: whether it's a retention cohort or an inter-annotator agreement score, I care about whether the number actually means what people think it means.
 
@@ -63,7 +63,7 @@ how to read the numbers, what to recommend — are the part of this work I stand
 
 | Period | Role |
 |---|---|
-| 2024 – present | Freelance AI Trainer / Evaluator — Outlier, Mercor, Micro1 |
+| 2024 – present | Freelance AI Trainer / Evaluator — AI training platforms (names withheld per contract) |
 | 2024 – 2025 | Freelance Data Analyst — dashboards & Tableau → Power BI migrations for SMEs |
 | 2021 – 2024 | Data Analyst — Sapo Technology JSC (CDP, customer-journey analytics, Pentaho ETL) |
 | 2021 | Data Analyst — YODY Fashion JSC (omnichannel retail BI) |
