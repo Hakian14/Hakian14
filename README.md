@@ -76,7 +76,3 @@ how to read the numbers, what to recommend — are the part of this work I stand
 - Email: hakieuanh662@gmail.com
 - LinkedIn: [linkedin.com/in/kieu-anh-ha](https://www.linkedin.com/in/kieu-anh-ha-6249a3172/)
 - Open to: remote AI training / evaluation roles, data analyst roles, and BI consulting
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakian14&show_icons=true&theme=default)
-
