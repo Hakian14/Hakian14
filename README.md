@@ -68,7 +68,7 @@ My background in **Statistics (B.Sc., National Economics University)** is the th
 ## 📫 Contact
 
 - Email: hakieuanh662@gmail.com
-- LinkedIn: *(add link)*
+- LinkedIn: [linkedin.com/in/kieu-anh-ha](https://www.linkedin.com/in/kieu-anh-ha-6249a3172/)
 - Open to: remote AI training / evaluation roles, data analyst roles, and BI consulting
 
 
