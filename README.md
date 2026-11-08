@@ -36,7 +36,7 @@ My background in **Statistics (B.Sc., National Economics University)** is the th
 | Project | What it shows | Stack |
 |---|---|---|
 | [**ecommerce-customer-journey-sql**](https://github.com/Hakian14/ecommerce-customer-journey-sql) | Customer-journey analytics on a CDP-style e-commerce schema: cohort retention, RFM segmentation, purchase funnel, repeat-buyer behaviour. | SQL (SQLite/PostgreSQL), Python |
-| [**omnichannel-retail-powerbi**](https://github.com/Hakian14/omnichannel-retail-powerbi) | Omnichannel retail dashboard built on a star schema, with documented DAX measures and performance-tuning notes. | Power BI, DAX, Python |
+| [**omnichannel-retail-powerbi**](https://github.com/Hakian14/omnichannel-retail-powerbi) | Omnichannel retail BI: star schema, 54 documented DAX measures, report spec — plus a [live web dashboard](https://hakian14.github.io/omnichannel-retail-powerbi/) of the same five pages. | Power BI, DAX, Python, JavaScript |
 | [**marketing-analytics-python**](https://github.com/Hakian14/marketing-analytics-python) | EDA, hypothesis testing, A/B-test analysis and regression on campaign data — statistics applied to marketing decisions. | Python, pandas, scipy, statsmodels |
 | [**llm-response-evaluation-toolkit**](https://github.com/Hakian14/llm-response-evaluation-toolkit) | Rubric framework for grading LLM responses + scripts for inter-annotator agreement and annotation QC. | Python, Cohen's κ, Krippendorff's α |
 | [**crm-erp-etl-pipeline**](https://github.com/Hakian14/crm-erp-etl-pipeline) | ETL pipeline unifying CRM and ERP extracts into a clean analytical layer, with a data dictionary and data-quality checks. | Pentaho / Python, SQL |
